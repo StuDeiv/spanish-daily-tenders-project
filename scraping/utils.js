@@ -40,16 +40,16 @@ export async function getDailyTendersAndInfo(){
 
     //Get tenders of the main page
     let tenders = []
-    tenders.push(result['entry'])
+    tenders = tenders.concat(result['entry'])
     updatedDate = result['updated']
-    result['at:deleted-entry'] === undefined ? null : deletedTenders.push(result['at:deleted-entry'])
+    result['at:deleted-entry'] === undefined ? null : deletedTenders = deletedTenders.concat(result['at:deleted-entry'])
 
     while(nextLink) {
         res = await fetch(nextLink)
         body = await res.text()
         result = await parser.parseStringPromise(body)
-        result['at:deleted-entry'] === undefined ? null : deletedTenders.push(result['at:deleted-entry'])
-        tenders.push(result['entry'])
+        result['at:deleted-entry'] === undefined ? null : deletedTenders = deletedTenders.concat(result['at:deleted-entry'])
+        tenders = tenders.concat(result['entry'])
         nextLink = result['link'].filter((link) => link['rel'] === 'next')[0]['href']
         if(!nextLink.includes(getActualDate())) nextLink = null
     }
