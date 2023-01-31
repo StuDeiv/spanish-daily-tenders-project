@@ -1,12 +1,18 @@
 lockfileVersion: 5.4
 
 specifiers:
+  picocolors: ^1.0.0
   xml2js: 0.4.23
 
 dependencies:
+  picocolors: 1.0.0
   xml2js: 0.4.23
 
 packages:
+
+  /picocolors/1.0.0:
+    resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==}
+    dev: false
 
   /sax/1.2.4:
     resolution: {integrity: sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==}

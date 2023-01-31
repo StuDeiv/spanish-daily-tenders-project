@@ -5,12 +5,14 @@
   "type": "module",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "scrape": "node --no-warnings scraping/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "picocolors": "1.0.0",
     "xml2js": "0.4.23"
   }
 }
