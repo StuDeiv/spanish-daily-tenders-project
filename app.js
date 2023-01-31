@@ -1,4 +1,7 @@
 import * as xml2js from 'xml2js';
+import fs from 'fs';
+// Disable SSL certificate validation for development purposes
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 
 const parserOptions = {
     attrkey: 'attr',
@@ -15,7 +18,7 @@ const parserOptions = {
 const res = await fetch('https://contrataciondelsectorpublico.gob.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom');
 const body = await res.text();
 const parser = new xml2js.Parser(parserOptions);
-
+let updateFileUpdate = '';
 
 const getPreviousDate = () => {
     const date = new Date();
@@ -26,7 +29,7 @@ const getPreviousDate = () => {
     return today;
 }
 
-async function getTenders(parser,body) {
+const getTenders = async (parser,body) => {
     let result = await parser.parseStringPromise(body);
     let nextLink = result['link'].filter((link) => link['rel'] === 'next')[0]['href'];
     let tenders = [];
@@ -34,6 +37,7 @@ async function getTenders(parser,body) {
         let res = await fetch(nextLink);
         body = await res.text();
         result = await parser.parseStringPromise(body);
+        updateFileUpdate = result['updated'];
         nextLink = result['link'].filter((link) => link['rel'] === 'next')[0]['href'];
         tenders.push(result['entry']);
         if(!nextLink.includes(getPreviousDate())) nextLink = null;
@@ -43,5 +47,7 @@ async function getTenders(parser,body) {
 
 const totalTenders = await getTenders(parser,body);
 
-//Pretty print JSON to console with colors and indentation 
-console.log(JSON.stringify(totalTenders, null, 2));
+fs.writeFile(`./db/tenders-${updateFileUpdate}.json`, JSON.stringify(totalTenders), (err) => {
+    if (err) throw err;
+    console.log('The file has been saved!');
+});
