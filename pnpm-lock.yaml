@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  picocolors: ^1.0.0
+  picocolors: 1.0.0
   xml2js: 0.4.23
 
 dependencies:
