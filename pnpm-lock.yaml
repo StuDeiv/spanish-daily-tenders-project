@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  xml2js: ^0.4.23
+  xml2js: 0.4.23
 
 dependencies:
   xml2js: 0.4.23
