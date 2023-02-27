@@ -1,5 +1,1085 @@
 [
   {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1352659",
+    "when": "2023-02-26T02:30:00+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1336587",
+    "when": "2023-02-26T02:29:36+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460217",
+    "when": "2023-02-26T02:27:29+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460216",
+    "when": "2023-02-26T02:27:24+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1183076",
+    "when": "2023-02-26T02:27:10+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1346943",
+    "when": "2023-02-26T02:26:52+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1219868",
+    "when": "2023-02-26T02:26:17+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1007503",
+    "when": "2023-02-26T02:26:04+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1348756",
+    "when": "2023-02-26T02:25:36+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1413644",
+    "when": "2023-02-26T02:25:31+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1289623",
+    "when": "2023-02-26T02:25:11+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1002297",
+    "when": "2023-02-26T02:24:57+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1269221",
+    "when": "2023-02-26T02:24:37+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1393782",
+    "when": "2023-02-26T02:24:17+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1008301",
+    "when": "2023-02-26T02:24:06+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/995876",
+    "when": "2023-02-26T02:23:29+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1408227",
+    "when": "2023-02-26T02:23:16+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1135966",
+    "when": "2023-02-26T02:22:57+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1410302",
+    "when": "2023-02-26T02:22:45+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1139389",
+    "when": "2023-02-26T02:22:26+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460178",
+    "when": "2023-02-26T02:22:07+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/859994",
+    "when": "2023-02-26T02:21:39+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1289665",
+    "when": "2023-02-26T02:21:25+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1318200",
+    "when": "2023-02-26T02:21:07+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1425035",
+    "when": "2023-02-26T02:21:04+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1292213",
+    "when": "2023-02-26T02:20:14+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460174",
+    "when": "2023-02-26T02:19:55+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1330295",
+    "when": "2023-02-26T02:19:24+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/996246",
+    "when": "2023-02-26T02:19:04+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1327156",
+    "when": "2023-02-26T02:18:51+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1179684",
+    "when": "2023-02-26T02:18:38+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1320956",
+    "when": "2023-02-26T02:18:09+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460165",
+    "when": "2023-02-26T02:18:01+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460164",
+    "when": "2023-02-26T02:17:56+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1362163",
+    "when": "2023-02-26T02:17:48+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1376851",
+    "when": "2023-02-26T02:17:28+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1190660",
+    "when": "2023-02-26T02:17:17+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460163",
+    "when": "2023-02-26T02:17:10+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1438169",
+    "when": "2023-02-26T02:16:57+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1387644",
+    "when": "2023-02-26T02:16:49+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1403444",
+    "when": "2023-02-26T02:16:36+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/945717",
+    "when": "2023-02-26T02:16:06+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1393707",
+    "when": "2023-02-26T02:15:56+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1202976",
+    "when": "2023-02-26T02:15:40+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1298723",
+    "when": "2023-02-26T02:15:33+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460156",
+    "when": "2023-02-26T02:15:25+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1300453",
+    "when": "2023-02-26T02:15:08+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1009853",
+    "when": "2023-02-26T02:14:45+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1330304",
+    "when": "2023-02-26T02:14:32+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1218157",
+    "when": "2023-02-26T02:14:13+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1224263",
+    "when": "2023-02-26T02:14:00+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1360070",
+    "when": "2023-02-26T02:13:03+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1454127",
+    "when": "2023-02-26T02:12:57+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1439764",
+    "when": "2023-02-26T02:12:47+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1219860",
+    "when": "2023-02-26T02:12:40+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1406055",
+    "when": "2023-02-26T02:12:21+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1429314",
+    "when": "2023-02-26T02:12:11+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1232479",
+    "when": "2023-02-26T02:11:11+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1002074",
+    "when": "2023-02-26T02:10:44+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460148",
+    "when": "2023-02-26T02:10:40+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1316813",
+    "when": "2023-02-26T02:10:23+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1415846",
+    "when": "2023-02-26T02:10:08+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1334588",
+    "when": "2023-02-26T02:09:36+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1286501",
+    "when": "2023-02-26T02:09:12+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1378007",
+    "when": "2023-02-26T02:08:40+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1338273",
+    "when": "2023-02-26T02:08:27+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1340899",
+    "when": "2023-02-26T02:07:47+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1460130",
+    "when": "2023-02-26T02:07:12+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1319663",
+    "when": "2023-02-26T02:06:55+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1438234",
+    "when": "2023-02-26T02:06:51+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1396190",
+    "when": "2023-02-26T02:06:03+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1396173",
+    "when": "2023-02-26T02:05:59+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1396176",
+    "when": "2023-02-26T02:05:55+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1396178",
+    "when": "2023-02-26T02:05:51+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1007845",
+    "when": "2023-02-26T02:05:39+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1429377",
+    "when": "2023-02-26T02:05:35+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1272634",
+    "when": "2023-02-26T02:05:08+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1006893",
+    "when": "2023-02-25T02:26:12+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1185036",
+    "when": "2023-02-25T02:25:57+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1458646",
+    "when": "2023-02-25T02:25:52+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1328909",
+    "when": "2023-02-25T02:25:19+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1205294",
+    "when": "2023-02-25T02:25:08+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1205288",
+    "when": "2023-02-25T02:24:39+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1229254",
+    "when": "2023-02-25T02:24:33+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1426404",
+    "when": "2023-02-25T02:24:20+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1210133",
+    "when": "2023-02-25T02:24:01+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1338355",
+    "when": "2023-02-25T02:23:31+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1432249",
+    "when": "2023-02-25T02:23:22+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1370883",
+    "when": "2023-02-25T02:23:07+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1333423",
+    "when": "2023-02-25T02:22:40+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1445119",
+    "when": "2023-02-25T02:22:35+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1454090",
+    "when": "2023-02-25T02:22:18+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1458610",
+    "when": "2023-02-25T02:21:46+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/990343",
+    "when": "2023-02-25T02:21:31+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/990344",
+    "when": "2023-02-25T02:21:20+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1454065",
+    "when": "2023-02-25T02:21:13+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1418182",
+    "when": "2023-02-25T02:21:02+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1258849",
+    "when": "2023-02-25T02:20:46+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1374689",
+    "when": "2023-02-25T02:19:45+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1452908",
+    "when": "2023-02-25T02:19:26+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1313900",
+    "when": "2023-02-25T02:19:06+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1330324",
+    "when": "2023-02-25T02:18:34+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1313876",
+    "when": "2023-02-25T02:18:17+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1426408",
+    "when": "2023-02-25T02:18:07+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1378899",
+    "when": "2023-02-25T02:17:54+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1251884",
+    "when": "2023-02-25T02:17:30+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1438217",
+    "when": "2023-02-25T02:17:14+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1419383",
+    "when": "2023-02-25T02:17:06+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1297199",
+    "when": "2023-02-25T02:16:48+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1458591",
+    "when": "2023-02-25T02:16:44+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1383846",
+    "when": "2023-02-25T02:16:35+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1316060",
+    "when": "2023-02-25T02:15:50+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1458585",
+    "when": "2023-02-25T02:15:32+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1458584",
+    "when": "2023-02-25T02:15:13+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1422088",
+    "when": "2023-02-25T02:15:06+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1328914",
+    "when": "2023-02-25T02:14:36+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1251915",
+    "when": "2023-02-25T02:14:19+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1360013",
+    "when": "2023-02-25T02:13:55+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1318191",
+    "when": "2023-02-25T02:13:26+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1229297",
+    "when": "2023-02-25T02:12:22+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1246129",
+    "when": "2023-02-25T02:11:48+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1438167",
+    "when": "2023-02-25T02:11:31+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1136006",
+    "when": "2023-02-25T02:11:01+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1327068",
+    "when": "2023-02-25T02:09:05+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1458573",
+    "when": "2023-02-25T02:09:00+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457204",
+    "when": "2023-02-25T02:08:53+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1336569",
+    "when": "2023-02-25T02:08:36+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1406032",
+    "when": "2023-02-25T02:08:11+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1378941",
+    "when": "2023-02-25T02:07:41+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1316826",
+    "when": "2023-02-25T02:07:29+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/888133",
+    "when": "2023-02-25T02:06:16+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1009869",
+    "when": "2023-02-25T02:05:20+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1350605",
+    "when": "2023-02-25T02:05:10+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "CERRADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12238105",
+    "when": "2023-02-24T19:06:58.948+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12238108",
+    "when": "2023-02-24T18:07:49.340+01:00",
+    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
     "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12226418",
     "when": "2023-02-24T15:39:55.899+01:00",
     "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
@@ -13,606 +1093,6 @@
     "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
     "at:comment": {
       "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12136166",
-    "when": "2023-02-24T13:27:26.252+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12226625",
-    "when": "2023-02-24T12:38:46.660+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/9467853",
-    "when": "2023-02-24T12:27:00.304+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/11739874",
-    "when": "2023-02-24T11:10:54.291+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12153032",
-    "when": "2023-02-24T11:05:31.017+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12177922",
-    "when": "2023-02-24T10:30:33.346+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12226786",
-    "when": "2023-02-24T10:00:29.085+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12226890",
-    "when": "2023-02-24T09:55:35.247+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1232519",
-    "when": "2023-02-24T02:24:09+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1282617",
-    "when": "2023-02-24T02:23:49+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1370868",
-    "when": "2023-02-24T02:23:30+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1423431",
-    "when": "2023-02-24T02:23:14+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1445126",
-    "when": "2023-02-24T02:23:09+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1190711",
-    "when": "2023-02-24T02:22:51+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1334686",
-    "when": "2023-02-24T02:22:22+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1374699",
-    "when": "2023-02-24T02:22:00+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1218254",
-    "when": "2023-02-24T02:21:34+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1414756",
-    "when": "2023-02-24T02:21:17+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457206",
-    "when": "2023-02-24T02:21:05+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1297212",
-    "when": "2023-02-24T02:20:26+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457200",
-    "when": "2023-02-24T02:19:28+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1346989",
-    "when": "2023-02-24T02:18:53+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1438212",
-    "when": "2023-02-24T02:18:50+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1298784",
-    "when": "2023-02-24T02:18:36+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1427791",
-    "when": "2023-02-24T02:18:29+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1248210",
-    "when": "2023-02-24T02:18:01+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1016053",
-    "when": "2023-02-24T02:17:31+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1133560",
-    "when": "2023-02-24T02:17:08+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457188",
-    "when": "2023-02-24T02:17:03+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/889298",
-    "when": "2023-02-24T02:16:43+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457187",
-    "when": "2023-02-24T02:16:35+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/934236",
-    "when": "2023-02-24T02:16:07+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1014520",
-    "when": "2023-02-24T02:15:50+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1378872",
-    "when": "2023-02-24T02:15:40+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/951316",
-    "when": "2023-02-24T02:15:26+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1141434",
-    "when": "2023-02-24T02:15:07+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1300456",
-    "when": "2023-02-24T02:14:44+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1241290",
-    "when": "2023-02-24T02:14:29+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1175978",
-    "when": "2023-02-24T02:14:15+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1258864",
-    "when": "2023-02-24T02:13:54+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1422090",
-    "when": "2023-02-24T02:13:42+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1258861",
-    "when": "2023-02-24T02:13:19+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1378871",
-    "when": "2023-02-24T02:12:55+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1258857",
-    "when": "2023-02-24T02:12:31+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1452929",
-    "when": "2023-02-24T02:12:25+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1327154",
-    "when": "2023-02-24T02:12:10+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1248263",
-    "when": "2023-02-24T02:11:53+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1225804",
-    "when": "2023-02-24T02:11:22+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1362160",
-    "when": "2023-02-24T02:11:09+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1346947",
-    "when": "2023-02-24T02:10:50+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1315262",
-    "when": "2023-02-24T02:10:28+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1272604",
-    "when": "2023-02-24T02:09:50+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1449373",
-    "when": "2023-02-24T02:09:46+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1441095",
-    "when": "2023-02-24T02:09:34+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457172",
-    "when": "2023-02-24T02:09:21+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1445128",
-    "when": "2023-02-24T02:08:28+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457168",
-    "when": "2023-02-24T02:08:23+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1340904",
-    "when": "2023-02-24T02:08:10+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1418164",
-    "when": "2023-02-24T02:07:48+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1330354",
-    "when": "2023-02-24T02:07:22+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1406026",
-    "when": "2023-02-24T02:07:04+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1405969",
-    "when": "2023-02-24T02:07:01+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1408194",
-    "when": "2023-02-24T02:06:55+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1406001",
-    "when": "2023-02-24T02:06:48+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457155",
-    "when": "2023-02-24T02:06:39+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457154",
-    "when": "2023-02-24T02:06:33+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1383869",
-    "when": "2023-02-24T02:06:21+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457148",
-    "when": "2023-02-24T02:05:51+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457146",
-    "when": "2023-02-24T02:05:47+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457145",
-    "when": "2023-02-24T02:05:44+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457144",
-    "when": "2023-02-24T02:05:41+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1391446",
-    "when": "2023-02-24T02:05:38+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1195359",
-    "when": "2023-02-24T02:05:20+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1457143",
-    "when": "2023-02-24T02:05:16+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
-    }
-  },
-  {
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/1348750",
-    "when": "2023-02-24T02:05:09+01:00",
-    "xmlns:at": "http://purl.org/atompub/tombstones/1.0",
-    "at:comment": {
-      "type": "CERRADA"
     }
   }
 ]
