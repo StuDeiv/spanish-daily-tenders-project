@@ -1,5 +1,54 @@
 [
   {
+    "when": "2023-06-30T15:40:06.385+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12981142",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2023-06-30T14:17:23.169+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13010534",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2023-06-30T13:57:28.810+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13010465",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2023-06-30T12:13:54.735+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12934227",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2023-06-30T10:53:26.884+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13010833",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2023-06-30T08:53:59.439+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13003656",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2023-06-30T08:26:04.907+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12964913",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
     "when": "2023-06-29T14:44:47.690+02:00",
     "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13003461",
     "at:comment": {
@@ -16,97 +65,6 @@
   {
     "when": "2023-06-29T14:13:27.466+02:00",
     "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12964677",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T14:01:26.669+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12934390",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T13:48:24.163+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12996572",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T13:39:33.105+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12970741",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T13:20:25.099+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12964654",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T12:54:03.220+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13003744",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T12:35:04.508+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13003785",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T12:28:26.051+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12883634",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T12:18:20.159+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13003835",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T12:14:47.918+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/6324176",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T12:12:45.794+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/7510960",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T12:07:52.599+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13003847",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T11:53:34.871+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13003910",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2023-06-29T11:22:20.259+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13003923",
     "at:comment": {
       "type": "ANULADA"
     }
