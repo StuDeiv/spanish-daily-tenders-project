@@ -1,7 +1,14 @@
 [
   {
-    "when": "2023-07-12T10:15:03.885+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13073983",
+    "when": "2023-07-13T14:36:33.919+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13073977",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2023-07-13T10:29:24.561+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13080878",
     "at:comment": {
       "type": "ANULADA"
     }
