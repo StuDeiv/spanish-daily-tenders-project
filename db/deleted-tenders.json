@@ -1,14 +1,21 @@
 [
   {
-    "when": "2023-12-07T19:36:22.783+01:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13629328",
+    "when": "2023-12-11T16:06:37.372+01:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13760178",
     "at:comment": {
       "type": "ANULADA"
     }
   },
   {
-    "when": "2023-12-07T12:41:57.682+01:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13836585",
+    "when": "2023-12-11T13:33:40.359+01:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13817855",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2023-12-07T19:36:22.783+01:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13629328",
     "at:comment": {
       "type": "ANULADA"
     }
