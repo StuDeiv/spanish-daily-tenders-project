@@ -24,6 +24,7 @@ jobs:
           run_install: true
       - run: |
           npm run scrape
-          git config user.name pcsp-bot
+          git user.name "Scraper bot"
+          git user.email "id00747372@usal.es"
           git diff --quiet && git diff --staged --quiet || git commit -am "[bot] update PCSP database"
           git push origin main
