@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "when": "2024-04-01T14:02:23.438+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/14633700",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2024-04-01T08:45:05.236+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/8027396",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  }
+]
