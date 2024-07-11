@@ -1,5 +1,40 @@
 [
   {
+    "when": "2024-07-11T15:04:00.880+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15302792",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2024-07-11T14:53:02.009+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15246210",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2024-07-11T14:24:28.154+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15303245",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2024-07-11T14:20:27.466+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15149672",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2024-07-11T14:18:52.098+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15303183",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
     "when": "2024-07-10T16:14:50.258+02:00",
     "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15103878",
     "at:comment": {
@@ -9,97 +44,6 @@
   {
     "when": "2024-07-10T15:48:09.891+02:00",
     "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15294509",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T13:56:17.620+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15213941",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T13:12:26.582+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/14974590",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T12:55:30.251+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15226844",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T12:54:11.186+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15246326",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T12:52:00.240+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15226847",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T12:29:02.235+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15226853",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T12:23:06.485+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15226859",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T11:24:47.906+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15269564",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T11:07:51.894+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15140031",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T11:05:49.480+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15294974",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T10:09:28.180+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15088232",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-10T10:09:06.286+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15294956",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-07-09T14:00:54.491+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15284946",
     "at:comment": {
       "type": "ANULADA"
     }
