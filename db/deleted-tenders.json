@@ -1,5 +1,33 @@
 [
   {
+    "when": "2024-08-07T12:41:53.765+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15431950",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2024-08-07T11:18:57.867+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15449201",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2024-08-07T10:59:13.964+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15456649",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
+    "when": "2024-08-06T19:33:49.518+02:00",
+    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15431944",
+    "at:comment": {
+      "type": "ANULADA"
+    }
+  },
+  {
     "when": "2024-08-06T15:43:42.884+02:00",
     "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15456430",
     "at:comment": {
@@ -23,34 +51,6 @@
   {
     "when": "2024-08-06T13:54:58.118+02:00",
     "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/14930536",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-08-06T13:26:42.982+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15456558",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-08-06T12:53:24.294+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15119383",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-08-05T17:42:48.642+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15449597",
-    "at:comment": {
-      "type": "ANULADA"
-    }
-  },
-  {
-    "when": "2024-08-05T15:32:10.903+02:00",
-    "ref": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15449920",
     "at:comment": {
       "type": "ANULADA"
     }
